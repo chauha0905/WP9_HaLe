@@ -1,2 +1,2 @@
 # WP9_HaLe
-ML Project _ Weekly project
+ML Project _ Facial Detection
